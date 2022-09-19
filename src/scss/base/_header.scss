@@ -1,4 +1,12 @@
 
+header.look {
+  a {
+    color: green;
+  }
+
+}
+
+
 header {
   position: absolute;
   z-index: 90;
@@ -100,7 +108,6 @@ header {
     display: none;
   }
 }
-
 
 @media screen and (max-width: 990px) {
   .header {
